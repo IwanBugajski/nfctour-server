@@ -1,0 +1,9 @@
+{
+    "name": "nfc-tour-server",
+    "version": "0.0.1",
+    "description": "Server side for NFC Tour app",
+    "dependencies": {
+        "express": "~3.1.0",
+		"mongoose": "~3.8.9"
+    }
+}
